@@ -3,7 +3,7 @@ Demo and documentation of the Pixel Mesh / Runtime Pixel Mesh Component
 This github is not actively supported. Use the support email on the Unreal Marketplace Product Page
 
 YouTube Video of Example Project:
-https://www.youtube.com/watch?v=mcTQVM4ccio&lc=Ugywt6BV082_U6yv8MN4AaABAg
+https://youtu.be/mcTQVM4ccio
 
 # Overview
 
