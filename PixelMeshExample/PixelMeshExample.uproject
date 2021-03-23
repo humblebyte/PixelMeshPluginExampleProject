@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "PixelMesh",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5c07e172fc4645768fbab4842a72f62f"
 		},
 		{
 			"Name": "SteamVR",
